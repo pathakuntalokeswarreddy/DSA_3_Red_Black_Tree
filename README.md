@@ -176,5 +176,3 @@ The project is divided into separate source files so that each tree operation ca
   * Tree Rotations
   * Recoloring
   * Modular Programming
-
-Enter the project directory:
